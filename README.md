@@ -1,6 +1,7 @@
-# Muted Dark Theme
+# Ambrose Black and Clear-for Standard Notes Forked Edition
 
-Standard Notes dark theme with non-vivid, muted colors  
+A simple, ultra dark, and contrasty theme for Standard Notes.
+Forked from a very different stylistically theme, called [url:https://github.com/ntran/sn-theme-muteddark]MuteDark[/url] by Ntran
 
 ## Installation
 
