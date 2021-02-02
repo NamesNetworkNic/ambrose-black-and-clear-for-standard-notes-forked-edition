@@ -1,0 +1,26 @@
+---
+metatype: json
+---
+
+{
+  "identifier": "io.github.namesnetworknic.ambrose-black-and-clear-for-standard-notes-forked-edition",
+  "name": "ABC Forked",
+  "content_type": "SN|Theme",
+  "area": "themes",
+  "version": "0.0.1",
+  "description": "A simple, ultra dark, and contrasty theme for Standard Notes",
+  "url": "css file from jsDelivr",
+  "download_url": "github release zip file",
+  "latest_url": "https://listed.standardnotes.org/bnBSh1rzUL",
+  "marketing_url": "https://github.com/NamesNetworkNic/ambrose-black-and-clear-for-standard-notes-forked-edition",
+  "thumbnail_url": "raw image link from github",
+  "dock_icon": {
+    "type": "circle",
+   	"background_color": "#000000",
+   	"foreground_color": "#FF005C",
+   	"border_color": "#7B002C"
+  }
+}
+    },
+    "statusBar": "dark-content"
+}
