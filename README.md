@@ -1,4 +1,4 @@
-# Ambrose Black and Clear-for Standard Notes Forked Edition
+# Ambrose Black and Clear for Standard Notes (Forked Edition)
 
 A simple, ultra dark, and contrasty theme for Standard Notes.
 Forked from a very different stylistically theme, called MuteDark by Ntran (https://github.com/ntran/sn-theme-muteddark).
