@@ -9,16 +9,16 @@ metatype: json
   "area": "themes",
   "version": "0.0.1",
   "description": "A simple, ultra dark, and contrasty theme for Standard Notes",
-  "url": "css file from jsDelivr",
+  "url": "https://raw.githubusercontent.com/NamesNetworkNic/ambrose-black-and-clear-for-standard-notes-forked-edition/master/dist/dist.css",
   "download_url": "github release zip file",
-  "latest_url": "https://listed.standardnotes.org/bnBSh1rzUL",
+  "latest_url": "https://idioms.thefreedictionary.com/Who+cares%3f",
   "marketing_url": "https://github.com/NamesNetworkNic/ambrose-black-and-clear-for-standard-notes-forked-edition",
-  "thumbnail_url": "raw image link from github",
+  "thumbnail_url": "https://idioms.thefreedictionary.com/Who+cares%3f",
   "dock_icon": {
     "type": "circle",
    	"background_color": "#000000",
-   	"foreground_color": "#FF005C",
-   	"border_color": "#7B002C"
+   	"foreground_color": "#000000",
+   	"border_color": "#ff0050"
   }
 }
     },
