@@ -10,5 +10,3 @@ Forked from a very different stylistically theme, called MuteDark by Ntran (http
     (to be filled)
 
 3. Click "Install" > "Activate".
-
-![thumbnail.png](./thumbnail.png)
